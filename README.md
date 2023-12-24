@@ -4,7 +4,6 @@
 # Social Media App (No Name)
 
 Social Media app just like facebook...
-![App Screenshot](screenshot.png) <!-- Add a screenshot of your app here -->
 
 ## Description
 
