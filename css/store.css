@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+.top
+{
+	background-color:#039;
+	
+	}
+.ff
+{
+	font-size:20px;color:#003;
+}
+.create
+{
+	font-size:24px;color:#036;
+}
+.sett
+{
+	 background-color:#039;color:#FFF;
+	 margin-top:px;
+
+	}
+.bttn
+{
+ width:96px;height:500px;	background-color:#FFF;color:#000;
+	margin-top:px;display:none;position:absolute;
+	border:0px groove #CCC;margin-left:190px;
+	border-top:none;
+
+	}	
+	
+.se
+{  
+ margin-left:95%;color:#FFF;
+	margin-top:7px;
+
+}
+.bt
+{
+ width:20%;margin-left:-60px;
+    background-color:#E8E8E8;color:#FFF;
+	margin-top:20px;display:none;position:absolute;
+	
+}		
+.edit2
+{
+	 margin-left:px;color:#FFF;
+	
+
+	}
+.divs form
+{
+ color:#FFF;
+	margin-top:7px;
+	
+	
+}
+.file
+{
+ width:20%;margin-left:px;
+    background-color:#E8E8E8;color:#FFF;
+	margin-top:-90px;display:none;position:absolute;
+	
+}
+.ff
+{
+	
+margin-top:-280px;	
+display:none;position:absolute;
+	
+}
+/*.btntime
+{
+	margin-top:400px;
+}*/
