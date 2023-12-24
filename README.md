@@ -29,7 +29,7 @@ This project is a simple social media app built using **PHP**, **HTML**, and **M
 
 1. Open your browser and navigate to `http://localhost/social-media-app/`.
 2. Log in using the provided test account:
-   - **Username**: janobe@gmail.com
+   - **Username**: god@gmail.com
    - **Password**: admin
 
 ## Contributing
